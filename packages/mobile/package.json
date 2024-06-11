@@ -1,0 +1,26 @@
+{
+  "name": "abc-store-mobile",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "arshadbajil <arshadt1997@gmail.com>",
+  "homepage": "https://github.com/arshadbajil/finanshell-abc-store#readme",
+  "license": "ISC",
+  "main": "lib/mobile.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadbajil/finanshell-abc-store.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/mobile.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/arshadbajil/finanshell-abc-store/issues"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "abc-store-web",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "arshadbajil <arshadt1997@gmail.com>",
+  "homepage": "https://github.com/arshadbajil/finanshell-abc-store#readme",
+  "license": "ISC",
+  "main": "lib/web.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadbajil/finanshell-abc-store.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/web.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/arshadbajil/finanshell-abc-store/issues"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.5",
+    "axios": "^1.7.2",
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.1.2",
+    "tailwindcss": "^3.4.4"
+  }
+}
